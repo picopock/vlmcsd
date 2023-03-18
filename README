@@ -12,3 +12,9 @@ man man/vlmcsd.7
 
 If you don't have man, you may also use the .txt, .html and .pdf files
 in the man directory
+
+## Docker image
+
+```sh
+docker pull picopock/vlmcsd:latest
+```
